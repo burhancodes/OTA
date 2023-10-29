@@ -1,4 +1,4 @@
-## v4.2 [October Release]
+## v4.2 [ Optional | 20231029 ]
 - Updated to latest LMODroid sources.
 - Implementation of `RRO_OVERLAYS` for Updater App.
 - Switched to .MD for changelogs instead of plain .txt file.
