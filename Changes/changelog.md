@@ -1,3 +1,7 @@
+## v4.2 [October Release]
+- Updated to latest LMODroid sources.
+- Implementation of `RRO_OVERLAYS` for UPdater App.
+- Switched to .MD for changelogs instead of plain .txt file.
 
 ## v4.2 [October Release]
 - Switched to Sapphire Kernel 4.14.327 clang 17.
