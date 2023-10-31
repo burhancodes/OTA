@@ -1,12 +1,12 @@
 {
     "response": [
       {
-        "datetime": 1698596091,
-        "filename": "LMODroid-4.2-20231029-1537-UNOFFICIAL-lancelot.zip",
-        "id": "9df7ef2727a5f2c53ee75ea959c1355b",
+        "datetime": 1698739621,
+        "filename": "LMODroid-4.2-20231031-0810-UNOFFICIAL-lancelot.zip",
+        "id": "3da16188dbd34fceda8d99a6e68f8686",
         "romtype": "UNOFFICIAL",
-        "size": 1004.88,
-        "url": "https://github.com/Burhanverse/Releases/releases/download/20231029/LMODroid-4.2-20231029-1537-UNOFFICIAL-lancelot.zip",
+        "size": 1244090617,
+        "url": "https://github.com/Burhanverse/Releases/releases/download/20231031/LMODroid-4.2-20231031-0810-UNOFFICIAL-lancelot.zip",
         "version": "4.2"
       }
     ]

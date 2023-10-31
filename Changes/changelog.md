@@ -1,3 +1,9 @@
+## v4.2 [ Recommended | 20231031 ]
+- Build with latest `Sapphire` kernel.
+- Updated to latest LMODroid sources.
+- Improvements of `RRO_OVERLAYS` for Updater App.
+- Use output view for `changelog.md` instead of raw file.
+
 ## v4.2 [ Optional | 20231029 ]
 - Updated to latest LMODroid sources.
 - Implementation of `RRO_OVERLAYS` for Updater App.
