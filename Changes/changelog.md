@@ -1,3 +1,11 @@
+## v4.2 [ Optional | 20231111 ]
+- Build with `BlackSapphire` kernel `4.14.329` clang `17.0.2`.
+- Added `Moto Widgets`.
+- Enabled `auto-power-save` modes.
+- Addressed `sepolicy` init denial.
+- Updated `dexpreopt` configuration.
+- Updated `paddings` from `veux`.
+- Updated to latest `LMODroid` sources.
 ## v4.2 [ Recommended | 20231031 ]
 - Build with latest `Sapphire` kernel.
 - Updated to latest LMODroid sources.
@@ -7,12 +15,12 @@
 ## v4.2 [ Optional | 20231029 ]
 - Updated to latest LMODroid sources.
 - Implementation of `RRO_OVERLAYS` for Updater App.
-- Switched to .MD for changelogs instead of plain .txt file.
+- Switched to `.MD` for changelogs instead of plain `.TXT` file.
 
 ## v4.2 [October Release]
-- Switched to Sapphire Kernel 4.14.327 clang 17.
-- Merged October Security Patch.
-- Added unofficial OTA support.
+- Switched to `Sapphire` Kernel `4.14.327` clang 17.
+- Merged `October` Security Patch.
+- Added unofficial `OTA` support.
 
 ## v4.2 [September Release]
 - Switched to Firmware 12.5.8 CN vendor base.
