@@ -1,4 +1,4 @@
-## v4.2 [ Optional | 20231111 ]
+## v4.2 [ Recommended | 20231111 ]
 - Build with `BlackSapphire` kernel `4.14.329` clang `17.0.2`.
 - Added `Moto Widgets`.
 - Enabled `auto-power-save` modes.
