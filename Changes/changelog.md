@@ -1,3 +1,12 @@
+## v4.2 [ Recommended | 20231111 ]
+- Added `Moto Clock`.
+- Added `Moto Calendar`.
+- Added `Mi Calculator`.
+- Adapt brightness scaling behaviour.
+- Included `BlackSapphire` kernel `Sapphire-4.14.332` base.
+- Updated to latest `LMODroid` sources.
+- Minor system optimizations.
+
 ## v4.2 [ November Release ]
 - Updated to latest `2023-11-01` Security patch.
 - Added patch script for KernelSU implementation.  
