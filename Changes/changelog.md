@@ -4,6 +4,7 @@
 - Added `Mi Calculator`.
 - Adapt brightness scaling behaviour.
 - Included `BlackSapphire` kernel `Sapphire-4.14.332` base.
+- Rebased the `DeviceTree` specifically for `LMODroid`.
 - Updated to latest `LMODroid` sources.
 - Minor system optimizations.
 
