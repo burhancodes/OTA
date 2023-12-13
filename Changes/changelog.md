@@ -1,5 +1,5 @@
 ## v4.2 [ HotFix-OTA | 20231213 ]
-- Fixed `Moto Calendar` not shown due to missing v2 signature scheme.
+- Fixed `Mi Calculator` not shown due to missing v2 signature scheme.
 - Added custom `LMKD` for better RAM management.
 - Updated to latest `LMODroid` sources.
   
