@@ -1,4 +1,4 @@
-## v4.2 [ Recommended | 20231213 ]
+## v4.2 [ HotFix-OTA | 20231213 ]
 - Fixed `Moto Calendar` not shown due to missing v2 signature scheme.
 - Added custom `LMKD` for better RAM management.
 - Updated to latest `LMODroid` sources.
