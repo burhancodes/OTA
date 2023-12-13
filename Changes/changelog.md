@@ -1,4 +1,9 @@
-## v4.2 [ Recommended | 20231111 ]
+## v4.2 [ Recommended | 20231213 ]
+- Fixed `Moto Calendar` not shown due to missing v2 signature scheme.
+- Added custom `LMKD` for better RAM management.
+- Updated to latest `LMODroid` sources.
+  
+## v4.2 [ Recommended | 20231211 ]
 - Added `Moto Clock`.
 - Added `Moto Calendar`.
 - Added `Mi Calculator`.
