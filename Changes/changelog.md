@@ -1,3 +1,13 @@
+## v4.2 [ December-Release | 20231229 ]
+- Enabled FS-Verity.
+- Disabled Dex & ART debugging.
+- Fixed UUIDs for AOSP audio pre-processing effects.
+- Updated dozeComponent behaviour.
+- Updated display color compositions.
+- Updated to `2023-12-05` Security patch.
+- Updated to latest `LMODroid` sources.
+- Minor system optimizations.
+
 ## v4.2 [ HotFix-OTA | 20231213 ]
 - Bug `Mi Calculator` not shown due to missing v2 signature scheme.
 - Added custom `LMKD` for better RAM management.
