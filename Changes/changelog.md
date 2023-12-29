@@ -1,5 +1,6 @@
 ## v4.2 [ December-Release | 20231229 ]
 - Enabled FS-Verity.
+- Dropped `Mi Calculator`.
 - Disabled Dex & ART debugging.
 - Fixed UUIDs for AOSP audio pre-processing effects.
 - Updated dozeComponent behaviour.
