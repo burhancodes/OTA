@@ -1,13 +1,28 @@
 {
-    "response": [
-      {
-        "datetime": 1705259408,
-        "filename": "LMODroid-4.2-20240114-1912-UNOFFICIAL-lancelot.zip",
-        "id": "b4d1d177c5859668762b3f630bad41b0",
-        "romtype": "UNOFFICIAL",
-        "size": 1244090617,
-        "url": "https://github.com/burhancodes/Releases/releases/download/20240115/LMODroid-4.2-20240114-1912-UNOFFICIAL-lancelot.zip",
-        "version": "4.2"
-      }
-    ]
-  }
+	"response": [
+		{
+			"maintainer": "Aqua",
+			"oem": "Redmi",
+			"device": "Redmi G80 Series",
+			"filename": "xxxxxxxxxxxxxx.zip",
+			"download": "link.zip",
+			"timestamp": time,
+			"md5": "md5sum",
+			"sha256": "sha256sum",
+			"size": 1055845078,
+			"version": "x.x",
+			"buildtype": "Monthly",
+			"forum": "",
+			"gapps": "bitgapps",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/burhanverse",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
