@@ -1,10 +1,16 @@
+## v4.2 [ March-Release | 20240323 ]
+- Fixed Internet connection bug.
+- Updated to `2024-03-05` Security patch.
+- Updated to latest `LMODroid` sources.
+- Minor system optimizations.
+
 ## v4.2 [ January-Release | 20240114 ]
 - Added `4G+ / LTE+` Support.
 - Updated Port Apps.
 - Updated to `2024-01-05` Security patch.
 - Updated to latest `LMODroid` sources.
 - Minor system optimizations.
-- 
+
 ## v4.2 [ December-Release | 20231229 ]
 - Enabled FS-Verity.
 - Dropped `Mi Calculator`.
